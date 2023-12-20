@@ -1,2 +1,2 @@
 # JS
-Code Rep For Personal Learning
+Code Repo For Personal Learning
