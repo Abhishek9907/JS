@@ -64,6 +64,8 @@ function acceptArray(getArrary) {
     return getArrary[1]
 }
 
-console.log(acceptArray(myNewArray));
+// console.log(acceptArray(myNewArray));
 
-console.log(acceptArray([1000,2000,30000]));
+// console.log(acceptArray([1000,2000,30000]));
+
+
