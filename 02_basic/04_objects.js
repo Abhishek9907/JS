@@ -61,10 +61,12 @@ users[1].email
 const course={
     courseName:"Javascript",
     teacher:"Youtube Guy",
-    fee:0
+    fee:11
 }
 
 console.log(course.teacher);
 
 const {fee:NewFee}=course
+console.log(`here ${NewFee}`);
+console.log(course.fee);
 console.log(NewFee);
